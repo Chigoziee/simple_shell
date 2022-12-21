@@ -320,11 +320,10 @@ $
 
 ## Authors ##
 
-👤 **TIMOTHY VICTOR**
+👤 **IFENJI HYGINUSR**
 
-- GitHub: [@Osvic1](https://github.com/Osvic1)
+- GitHub: (https://github.com/Chigoziee)
 
-👤 **OMAKU FESTUS FRIDAY**
+👤 **ELENDU EMMANUEL**
 
-- GitHub: [@makterince](https://github.com/makterince)
-ELENDU EMMANUEL -elanomilano@gmail.com-
+- GitHub: (https://github.com/Simplecodez)
